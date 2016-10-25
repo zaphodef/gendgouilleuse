@@ -15,4 +15,4 @@ Voir python main.py -h
 _eg. python main.py -f input_file -w results -s -p 3_
 
 ## Format du fichier attendu
-Voir INPUT_FILE
+Voir INPUT_RULES
