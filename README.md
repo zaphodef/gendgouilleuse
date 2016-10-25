@@ -6,11 +6,11 @@ l'algorithme voir par exemple https://fr.wikipedia.org/wiki/Algorithme_hongrois.
 * python avec le module _munkres_
 
 ## Installation
-* pip install _munkres_
+* pip install munkres
 * git clone https://github.com/zaphodef/gendgouilleuse.git
 
 ## Utilisation
-Voir python main.py -h
+Voir : python main.py -h
 
 _eg. python main.py -f input_file -w results -s -p 3_
 
