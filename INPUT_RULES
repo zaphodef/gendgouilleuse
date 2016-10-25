@@ -1,0 +1,22 @@
+Le contenu du fichier d'input doit être formaté comme suit :
+
+stage 1, stage 2, stage 3, stage 4, ....
+nom 1, choix 1, choix 2, choix 3, ...
+nom 2, choix 1, choix 2, choix 3, ...
+...
+
+où "stage i" est remplacé par le nom du stage
+et "nom i" est le nom des personnes concernées
+
+Il est possible de forcer le choix pour certains stages (eg. stage pré-attribué à telle ou telle personne). Il suffit pour cela d'affecter un unique choix à la personne concernée :
+nom 1, choix 1
+
+En outre, si une personne n'a pas classé l'ensemble des choix, elle sera considérée comme disqualifiée pour les choix non-classés (les choix non classés sont affectés à des poids infinis).
+
+Exemple de fichier d'input :
+
+BR Caen, GD Toulouse, GD Lyon, PJGN C3N
+Pierre-Jean, PJGN C3N
+Bidule, BR Caen, GD Toulouse, GD Lyon
+Chose, GD Toulouse, GD Lyon, BR Caen
+Truc, GD Toulouse, BR Caen, GD Lyon

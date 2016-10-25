@@ -1,0 +1,5 @@
+1/ Clone this repo.
+2/ Install munkres (eg. pip install munkres).
+3/ Create input file (see INPUT_RULES).
+4/ eg. python main.py -f your_file -s -p 3
+5/ Enjoy :-)
