@@ -1,6 +1,5 @@
 # gendgouilleuse
-Magouilleuse destinée aux polytechniciens en stage en gendarmerie, pour les affectations de stage. Elle utilise l'algo
-rithem hongrois pour optimiser la répartition, et ainsi satisfaire le plus grand nombre. Pour plus d'informations sur
+Magouilleuse destinée aux polytechniciens en stage en gendarmerie, pour les affectations de stage. Elle utilise l'algorithme hongrois pour optimiser la répartition, et ainsi satisfaire le plus grand nombre. Pour plus d'informations sur
 l'algorithme voir par exemple https://fr.wikipedia.org/wiki/Algorithme_hongrois.
 
 ## Dépendances
